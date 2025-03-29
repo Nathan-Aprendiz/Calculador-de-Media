@@ -1,8 +1,9 @@
-programa
+ programa
 {
 	
 	funcao inicio()
 	{
+
 		real nota1, nota2, media
 		escreva("digite a primeira nota do aluno: ")
 		leia(nota1)
@@ -12,7 +13,8 @@ programa
 		escreva("a media o aluno é:", media)
 		se( media >=6){ escreva(" Aluno aprovado")}
 		senao { escreva(" Aluno reprovado")}
-		
+
+
 	}
 }
 /* $$$ Portugol Studio $$$ 
